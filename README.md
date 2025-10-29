@@ -99,6 +99,4 @@ Practicar operaciones intermedias y terminales de los **Streams** en Java para p
 Este trabajo práctico permite afianzar los conocimientos sobre **programación funcional en Java**, mostrando cómo los **Streams** simplifican las operaciones sobre colecciones.  
 El enfoque declarativo facilita la lectura del código y reduce la probabilidad de errores, promoviendo una programación más limpia, eficiente y moderna.
 
----
 
-📌 *Trabajo realizado para la materia Programación III – Tecnicatura Universitaria en Programación (UTN).*
